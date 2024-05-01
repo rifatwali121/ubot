@@ -41,4 +41,18 @@
 			"id": 1
 		}
 	]
+	 "See you later": [
+    {
+      "conversation": "See you later, thanks for stopping by.",
+      "id": 1
+    },
+    {
+      "conversation": "See you later, thanks for checking in.",
+      "id": 1
+    },
+    {
+      "conversation": "See you later, thanks for taking the time.",
+      "id": 1
+    }
+  ],
 }
