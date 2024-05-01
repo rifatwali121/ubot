@@ -1,89 +1,567 @@
 {
-	"who": [
-		{
-			"conversation": "I am Ubot 🤖",
-			"id": 1
-		}
+	"Hey": [
+	  {
+		"conversation": "Hello, Thank you for knocking me :-)",
+		"id": 1
+	  }
 	],
-	"how": [
-		{
-			"conversation": "emnei",
-			"id": 1
-		}
+	"Hi": [
+	  {
+		"conversation": "Hi,there,how can I help you ?",
+		"id": 1
+	  }
 	],
-	"where": [
-		{
-			"conversation": "UAP te",
-			"id": 1
-		}
+	"Is anyone there ?": [
+	  {
+		"conversation": "Hello, how can I assist you?",
+		"id": 1
+	  }
 	],
-	"when": [
-		{
-			"conversation": "ekhoni",
-			"id": 1
-		}
+	"Hello": [
+	  {
+		"conversation": "Hi, how may I assist you?",
+		"id": 1
+	  }
 	],
-	"what": [
-		{
-			"conversation": "I am an artificial intelligence-powered virtual assistant. I can find university-related information, provide important links, help you apply, pay, and more. How can I help you today? Click the button below to wake me up!",
-			"id": 1
-		}
+	"Good day": [
+	  {
+		"conversation": "Hello, what can I do to help?",
+		"id": 1
+	  }
 	],
-	"why": [
-		{
-			"conversation": "Janina",
-			"id": 1
-		}
+	"Bye": [
+	  {
+		"conversation": "See you later, thanks for visiting",
+		"id": 1
+	  }
 	],
-	"link": [
-		{
-			"conversation": "visit the website https://cse.uap-bd.edu/ if you want to know more info mail at dao.cse@uap-bd.edu",
-			"id": 1
-		}
-	]
-	 "See you later": [
-    {
-      "conversation": "See you later, thanks for stopping by.",
-      "id": 1
-    },
-    {
-      "conversation": "See you later, thanks for checking in.",
-      "id": 1
-    },
-    {
-      "conversation": "See you later, thanks for taking the time.",
-      "id": 1
-    }
+	"See you later": [
+	  {
+		"conversation": "See you later, thanks for stopping by.",
+		"id": 1
+	  },
+	  {
+		"conversation": "See you later, thanks for checking in.",
+		"id": 1
+	  },
+	  {
+		"conversation": "See you later, thanks for taking the time.",
+		"id": 1
+	  }
+	],
+	"See you later on.": [
+	  {
+		"conversation": "See you later, thanks for visiting",
+		"id": 1
+	  },
+	  {
+		"conversation": "See you later, thanks for checking in.",
+		"id": 1
+	  }
+	],
+	"I'll talk to you later.": [
+	  {
+		"conversation": "See you later, thanks for visiting",
+		"id": 1
+	  },
+	  {
+		"conversation": "See you later, thanks for checking in.",
+		"id": 1
+	  }
+	],
+	"I'll see you in a while.": [
+	  {
+		"conversation": "See you later, thanks for taking the time.",
+		"id": 1
+	  }
+	],
+	"I'll see you in a couple of minutes.": [
+	  {
+		"conversation": "See you later, thanks for stopping by.",
+		"id": 1
+	  }
+	],
+	"What is U-bot ?": [
+	  {
+		"conversation": "U-bot, I am an A.I. Powered Chatbot. U-Bot stands for Uap Bot.",
+		"id": 1
+	  }
+	],
+	"What does U-bot mean?": [
+	  {
+		"conversation": "U-bot, I am an A.I. Powered Chatbot. U-Bot stands for Uap Bot.",
+		"id": 1
+	  }
+	],
+	"What does U-bot stand for?": [
+	  {
+		"conversation": "U-bot, I am an A.I. Powered Chatbot. U-Bot stands for Uap Bot.",
+		"id": 1
+	  }
+	],
+	"Name?": [
+	  {
+		"conversation": "Oh sorry, I thought you knew. My name is Ubot. I am an A.I. Powered Chatbot. U-Bot stands for Uap Bot.",
+		"id": 1
+	  }
+	],
+	"What do people call you?": [
+	  {
+		"conversation": "You can call me U-Bot.",
+		"id": 1
+	  }
+	],
+	"Do you have a name?": [
+	  {
+		"conversation": "U-bot, I am an A.I. Powered Chatbot. U-Bot stands for Uap Bot.",
+		"id": 1
+	  }
+	],
+	"Who are you?": [
+	  {
+		"conversation": "My name is U-bot. I am an A.I. Powered Chatbot. U-Bot stands for Uap Bot.",
+		"id": 1
+	  }
+	],
+	"name": [
+	  {
+		"conversation": "My name is U-bot. I am an A.I. Powered Chatbot. U-Bot stands for Uap Bot.",
+		"id": 1
+	  }
+	],
+  
+	
+
+	"Who created U-bot?": [
+	  {
+		"conversation": "It was created by Waliullah Jahid Hasan Jami Sakib Chowdhary Rimjhim Bipa Nayem Fahim Montasir.",
+		"id": 1
+	  }
+	],
+	"Who made uap cse chet bot?": [
+	  {
+		"conversation": "It was developed by Waliullah Jahid Hasan Jami Sakib Chowdhary Rimjhim Bipa Nayem Fahim Montasir.",
+		"id": 1
+	  }
+	],
+	"Who are the developers of this chat bot?": [
+	  {
+		"conversation": "It was developed by Waliullah Jahid Hasan Jami Sakib Chowdhary Rimjhim Bipa Nayem Fahim Montasir.",
+		"id": 1
+	  }
+	],
+	"Who are the developers of U-bot?": [
+	  {
+		"conversation": "It was developed by Waliullah Jahid Hasan Jami Sakib Chowdhary Rimjhim Bipa Nayem Fahim Montasir.",
+		"id": 1
+	  }
+	],
+	"Developer?": [
+	  {
+		"conversation": "I am made byWaliullah Jahid Hasan Jami Sakib Chowdhary Rimjhim Bipa Nayem Fahim Montasir",
+		"id": 1
+	  }
+	],
+	"Developer": [
+	  {
+		"conversation": "I am made by Waliullah Jahid Hasan Jami Sakib Chowdhary Rimjhim Bipa Nayem Fahim Montasir",
+		"id": 1
+	  }
+	],
+	"Why should I study CSE ?": [
+	  {
+		"conversation": "CSE means Computer Science Engineering. Computer science is a dynamic and rapidly growing area that has become an integral part of the world that we live in today. Having a degree in this field will provide you with a deep understanding of theories and emerging technologies.",
+		"id": 1
+	  }
+	],
+	"Why do I have to study CSE?": [
+	  {
+		"conversation": "CSE means Computer Science Engineering. Computer science is a dynamic and rapidly growing area that has become an integral part of the world that we live in today. Having a degree in this field will provide you with a deep understanding of theories and emerging technologies.",
+		"id": 1
+	  }
+	],
+	"Why should I learn about CSE?": [
+	  {
+		"conversation": "CSE means Computer Science Engineering. Computer science is a dynamic and rapidly growing area that has become an integral part of the world that we live in today. Having a degree in this field will provide you with a deep understanding of theories and emerging technologies.",
+		"id": 1
+	  }
+	],
+	"What is CSE ?": [
+	  {
+		"conversation": "CSE means Computer Science Engineering. Computer science is a dynamic and rapidly growing area that has become an integral part of the world that we live in today. Having a degree in this field will provide you with a deep understanding of theories and emerging technologies.",
+		"id": 1
+	  }
+	],
+	"CSE ?": [
+	  {
+		"conversation": "CSE means Computer Science Engineering. Computer science is a dynamic and rapidly growing area that has become an integral part of the world that we live in today. Having a degree in this field will provide you with a deep understanding of theories and emerging technologies.",
+		"id": 1
+	  }
+	],
+	"How many semesters are offered yearly at UAP?": [
+	  {
+		"conversation": "UAP offers 2 semesters a year: Spring & Fall, and these start in January & July respectively.",
+		"id": 1
+	  }
+	],
+	
+	"How many semesters are offered every year in UAP?": [
+	  {
+		"conversation": "UAP offers 2 semesters a year: Spring & Fall, and these start in January & July respectively.",
+		"id": 1
+	  }
+	],
+	"How many semesters are offered annually at UAP?": [
+	  {
+		"conversation": "UAP offers 2 semesters a year: Spring & Fall, and these start in January & July respectively",
+		"id": 1
+	  }
+	],
+	"Total semesters in UAP": [
+	  {
+		"conversation": "UAP offers 2 semesters a year: Spring & Fall, and these start in January & July respectively",
+		"id": 1
+	  }
+	],
+	"Total semesters": [
+	  {
+		"conversation": "UAP offers 2 semesters a year: Spring & Fall, and these start in January & July respectively",
+		"id": 1
+	  }
+	],
+	"Why to choose UAP For CSE.": [
+	  {
+		"conversation": "The department of CSE, UAP is striving for a pioneer role in ICT through excellence in education, research and development towards preparing graduates as a global leader with quality education, innovative ideas, extra-curricular activities and collaboration between industry and academia.",
+		"id": 1
+	  }
+	],
+	"Why CSE at UAP?": [
+	  {
+		"conversation": "The department of CSE, UAP is striving for a pioneer role in ICT through excellence in education, research and development towards preparing graduates as a global leader with quality education, innovative ideas, extra-curricular activities and collaboration between industry and academia.",
+		"id": 1
+	  }
+	],
+	"Cse at Uap": [
+	  {
+		"conversation": "The department of CSE, UAP is striving for a pioneer role in ICT through excellence in education, research and development towards preparing graduates as a global leader with quality education, innovative ideas, extra-curricular activities and collaboration between industry and academia.",
+		"id": 1
+	  }
+	],
+	"How many credits do I have to complete for CSE?": [
+	  {
+		"conversation": "Total number of credit for Cse is 162.",
+		"id": 1
+	  }
+	],
+	"How many credits are required under the CSE program?": [
+	  {
+		"conversation": "Total number of credit for Cse is 162.",
+		"id": 1
+	  }
+	],
+	"How many credits need to be obtained for CSE?": [
+	  {
+		"conversation": "Total number of credit for Cse is 162.",
+		"id": 1
+	  }
+	],
+	"How many credits do I need to obtain as part of the CSE program?": [
+	  {
+		"conversation": "Total number of credit for Cse is 162.",
+		"id": 1
+	  }
+	],
+	"Total credit for CSE": [
+	  {
+		"conversation": "Total number of credit for Cse is 162.",
+		"id": 1
+	  }
+	],
+	"Total credit": [
+	  {
+		"conversation": "Total number of credit for Cse is 162.",
+		"id": 1
+	  }
+	],
+  "How apply for admission": [
+	  {
+		"conversation": "Generally there are two tests with a gap of one month in between. Applicants are allowed to appear in one test only (except some reasonable cases, for which the authority will follow a thorough scrutiny). All exams are conducted within the two months window before the semester class starts. Detailed timing is circulated both in daily newspapers and on our website https://cse.uap-bd.edu/noticeboard/notice/",
+		"id": 1
+	  }
+	],
+	"How can I apply for Admission?": [
+	  {
+		"conversation": "Generally there are two tests with a gap of one month in between. Applicants are allowed to appear in one test only (except some reasonable cases, for which the authority will follow a thorough scrutiny). All exams are conducted within the two months window before the semester class starts. Detailed timing is circulated both in daily newspapers and on our website https://cse.uap-bd.edu/noticeboard/notice/",
+		"id": 1
+	  }
+	],
+	"How can I apply to be admitted?": [
+	  {
+		"conversation": "Generally there are two tests with a gap of one month in between. Applicants are allowed to appear in one test only (except some reasonable cases, for which the authority will follow a thorough scrutiny). All exams are conducted within the two months window before the semester class starts. Detailed timing is circulated both in daily newspapers and on our website https://cse.uap-bd.edu/noticeboard/notice/",
+		"id": 1
+	  }
+	],
+	"How do I apply for the program?": [
+	  {
+		"conversation": "Generally there are two tests with a gap of one month in between. Applicants are allowed to appear in one test only (except some reasonable cases, for which the authority will follow a thorough scrutiny). All exams are conducted within the two months window before the semester class starts. Detailed timing is circulated both in daily newspapers and on our website https://cse.uap-bd.edu/noticeboard/notice/",
+		"id": 1
+	  }
+	],
+	"How do I apply to get in?": [
+	  {
+		"conversation": "Generally there are two tests with a gap of one month in between. Applicants are allowed to appear in one test only (except some reasonable cases, for which the authority will follow a thorough scrutiny). All exams are conducted within the two months window before the semester class starts. Detailed timing is circulated both in daily newspapers and on our website https://cse.uap-bd.edu/noticeboard/notice/",
+		"id": 1
+	  }
+	],
+	"Do the applicants apply for online admission?": [
+	  {
+		"conversation": "Applicants can apply only online for admission (https://admission.uap-bd.edu/Admission/Home.aspx).",
+		"id": 1
+	  }
+	],
+	"Do applicants make an application online?": [
+	  {
+		"conversation": "Applicants can apply only online for admission (https://admission.uap-bd.edu/Admission/Home.aspx).",
+		"id": 1
+	  }
+	],
+	"Are candidates submitting an application online?": [
+	  {
+		"conversation": "Applicants can apply only online for admission (https://admission.uap-bd.edu/Admission/Home.aspx).",
+		"id": 1
+	  }
+	],
+	"Do candidates request admission online?": [
+	  {
+		"conversation": "Applicants can apply only online for admission (https://admission.uap-bd.edu/Admission/Home.aspx).",
+		"id": 1
+	  }
+	],
+	"admission apply online": [
+	  {
+		"conversation": "Applicants can apply only online for admission (https://admission.uap-bd.edu/Admission/Home.aspx).",
+		"id": 1
+	  }
+	],
+	"admission online": [
+	  {
+		"conversation": "Applicants can apply only online for admission (https://admission.uap-bd.edu/Admission/Home.aspx).",
+		"id": 1
+	  }
+	],
+	"online admission": [
+	  {
+		"conversation": "Applicants can apply only online for admission (https://admission.uap-bd.edu/Admission/Home.aspx).",
+		"id": 1
+	  }
+	],
+  
+	"What is the admission criteria For Transfer Students?": [
+	  {
+		"conversation": "Credit transfer students from other universities are also considered for admission, however their application is considered case by case, taking into account their previous results and track record and also must pass the admission test if the department requires. The minimum GPA for a course is “B” to be considered as transferable. A transfer student must complete 50% of the required total credit hour in the university to be eligible for a degree from UAP.\n\nFor a student who has a study gap of more than two years prior to her/his application for admission is advised to contact directly to the admission office.",
+		"id": 1
+	  }
+	],
+	"What are the admission requirements for transfer students?": [
+	  {
+		"conversation": "Credit transfer students from other universities are also considered for admission, however their application is considered case by case, taking into account their previous results and track record and also must pass the admission test if the department requires. The minimum GPA for a course is “B” to be considered as transferable. A transfer student must complete 50% of the required total credit hour in the university to be eligible for a degree from UAP.\n\nFor a student who has a study gap of more than two years prior to her/his application for admission is advised to contact directly to the admission office.",
+		"id": 1
+	  }
+	],
+	"What are the entrance requirements for transfer students?": [
+	  {
+		"conversation": "Credit transfer students from other universities are also considered for admission, however their application is considered case by case, taking into account their previous results and track record and also must pass the admission test if the department requires. The minimum GPA for a course is “B” to be considered as transferable. A transfer student must complete 50% of the required total credit hour in the university to be eligible for a degree from UAP.\n\nFor a student who has a study gap of more than two years prior to her/his application for admission is advised to contact directly to the admission office.",
+		"id": 1
+	  }
+	],
+  "What are the admission criteria for transferees?": [
+	  {
+		"conversation": "Credit transfer students from other universities are also considered for admission, however their application is considered case by case, taking into account their previous results and track record and also must pass the admission test if the department requires. The minimum GPA for a course is “B” to be considered as transferable. A transfer student must complete 50% of the required total credit hour in the university to be eligible for a degree from UAP.\n\nFor a student who has a study gap of more than two years prior to her/his application for admission is advised to contact directly to the admission office.",
+		"id": 1
+	  }
+	],
+	"What are the eligibility criteria for transfer students?": [
+	  {
+		"conversation": "Credit transfer students from other universities are also considered for admission, however their application is considered case by case, taking into account their previous results and track record and also must pass the admission test if the department requires. The minimum GPA for a course is “B” to be considered as transferable. A transfer student must complete 50% of the required total credit hour in the university to be eligible for a degree from UAP.\n\nFor a student who has a study gap of more than two years prior to her/his application for admission is advised to contact directly to the admission office.",
+		"id": 1
+	  }
+	],
+	"Is the application process the same for transfer students?": [
+	  {
+		"conversation": "Credit transfer students from other universities are also considered for admission, however their application is considered case by case, taking into account their previous results and track record and also must pass the admission test if the department requires. The minimum GPA for a course is “B” to be considered as transferable. A transfer student must complete 50% of the required total credit hour in the university to be eligible for a degree from UAP.\n\nFor a student who has a study gap of more than two years prior to her/his application for admission is advised to contact directly to the admission office.",
+		"id": 1
+	  }
+	],
+	"Is there a similar application process for transfer students?": [
+	  {
+		"conversation": "Credit transfer students from other universities are also considered for admission, however their application is considered case by case, taking into account their previous results and track record and also must pass the admission test if the department requires. The minimum GPA for a course is “B” to be considered as transferable. A transfer student must complete 50% of the required total credit hour in the university to be eligible for a degree from UAP.\n\nFor a student who has a study gap of more than two years prior to her/his application for admission is advised to contact directly to the admission office.",
+		"id": 1
+	  }
+	],
+  
+	"What is the admission criteria For international Students?": [
+	  {
+		"conversation": "It is necessary for a prospective student from abroad to demonstrate commitment and readiness to operate in a different cultural context. The selection process is relatively similar, with options of submitting the necessary documents online. All documents must be translated in English and attested by legal authorities. The applicant must fulfill if the department asks for some special documents (i/e Portfolio, recommendation letter etc.) or interview (via Skype or telephone). For further information please contact directly to the links below.",
+		"id": 1
+	  }
+	],
+	"What are the admission requirements for international students?": [
+	  {
+		"conversation": "It is necessary for a prospective student from abroad to demonstrate commitment and readiness to operate in a different cultural context. The selection process is relatively similar, with options of submitting the necessary documents online. All documents must be translated in English and attested by legal authorities. The applicant must fulfill if the department asks for some special documents (i/e Portfolio, recommendation letter etc.) or interview (via Skype or telephone). For further information please contact directly to the links below.",
+		"id": 1
+	  }
+	],
+	"What are the entrance requirements for international students?": [
+	  {
+		"conversation": "It is necessary for a prospective student from abroad to demonstrate commitment and readiness to operate in a different cultural context. The selection process is relatively similar, with options of submitting the necessary documents online. All documents must be translated in English and attested by legal authorities. The applicant must fulfill if the department asks for some special documents (i/e Portfolio, recommendation letter etc.) or interview (via Skype or telephone). For further information please contact directly to the links below.",
+		"id": 1
+	  }
+	],
+	"What are the eligibility criteria for international students?": [
+	  {
+		"conversation": "It is necessary for a prospective student from abroad to demonstrate commitment and readiness to operate in a different cultural context. The selection process is relatively similar, with options of submitting the necessary documents online. All documents must be translated in English and attested by legal authorities. The applicant must fulfill if the department asks for some special documents (i/e Portfolio, recommendation letter etc.) or interview (via Skype or telephone). For further information please contact directly to the links below.",
+		"id": 1
+	  }
+	],
+	"Is the application process the same for international students?": [
+	  {
+		"conversation": "It is necessary for a prospective student from abroad to demonstrate commitment and readiness to operate in a different cultural context. The selection process is relatively similar, with options of submitting the necessary documents online. All documents must be translated in English and attested by legal authorities. The applicant must fulfill if the department asks for some special documents (i/e Portfolio, recommendation letter etc.) or interview (via Skype or telephone). For further information please contact directly to the links below.",
+		"id": 1
+	  }
+	],
+	"admission for international students": [
+	  {
+		"conversation": "It is necessary for a prospective student from abroad to demonstrate commitment and readiness to operate in a different cultural context. The selection process is relatively similar, with options of submitting the necessary documents online. All documents must be translated in English and attested by legal authorities. The applicant must fulfill if the department asks for some special documents (i/e Portfolio, recommendation letter etc.) or interview (via Skype or telephone). For further information please contact directly to the links below.",
+		"id": 1
+	  }
+	],
+	"Is there a similar application process for international students?": [
+	  {
+		"conversation": "It is necessary for a prospective student from abroad to demonstrate commitment and readiness to operate in a different cultural context. The selection process is relatively similar, with options of submitting the necessary documents online. All documents must be translated in English and attested by legal authorities. The applicant must fulfill if the department asks for some special documents (i/e Portfolio, recommendation letter etc.) or interview (via Skype or telephone). For further information please contact directly to the links below.",
+		"id": 1
+	  }
+	],
+  
+  
+	"admission requirement": [
+	  {
+		"conversation": "Minimum GPA Requirements:\nTotal GPA in SSC & HSC = 7.50\nTotal GPA in O & A level=7.50\n(Candidates with minimum GPA of 2.5 in five subjects in O level and two subjects in A level).\n\nSubject Requirements:\nStudents must have Physics, Mathematics in HSC (or equivalent) and Chemistry either in SSC or HSC (or equivalent).",
+		"id": 1
+	  }
   ],
-	 "admission online": [
-    {
-      "conversation": "Applicants can apply only online for admission (https://admission.uap-bd.edu/Admission/Home.aspx).",
-      "id": 1
-    }
-  ],
-  "online admission": [
-    {
-      "conversation": "Applicants can apply only online for admission (https://admission.uap-bd.edu/Admission/Home.aspx).",
-      "id": 1
-    }
-  ],
-{
-  "What is the admission criteria For Transfer Students?": [
-    {
-      "conversation": "Credit transfer students from other universities are also considered for admission, however their application is considered case by case, taking into account their previous results and track record and also must pass the admission test if the department requires. The minimum GPA for a course is “B” to be considered as transferable. A transfer student must complete 50% of the required total credit hour in the university to be eligible for a degree from UAP.\n\nFor a student who has a study gap of more than two years prior to her/his application for admission is advised to contact directly to the admission office.",
-      "id": 1
-    }
-  ],
-  "What are the admission requirements for transfer students?": [
-    {
-      "conversation": "Credit transfer students from other universities are also considered for admission, however their application is considered case by case, taking into account their previous results and track record and also must pass the admission test if the department requires. The minimum GPA for a course is “B” to be considered as transferable. A transfer student must complete 50% of the required total credit hour in the university to be eligible for a degree from UAP.\n\nFor a student who has a study gap of more than two years prior to her/his application for admission is advised to contact directly to the admission office.",
-      "id": 1
-    }
-  ],
-  "What are the entrance requirements for transfer students?": [
-    {
-      "conversation": "Credit transfer students from other universities are also considered for admission, however their application is considered case by case, taking into account their previous results and track record and also must pass the admission test if the department requires. The minimum GPA for a course is “B” to be considered as transferable. A transfer student must complete 50% of the required total credit hour in the university to be eligible for a degree from UAP.\n\nFor a student who has a study gap of more than two years prior to her/his application for admission is advised to contact directly to the admission office.",
-      "id": 1
-    }
-  ],
-}
+  
+
+  
+	
+	
+	
+	
+
+	"What about CSE Cultural Club?": [
+	  {
+		"conversation": "The Cultural Club is formed with the aim to create an environment of creativity and cultural prospects in dept. of CSE, University of Asia Pacific. It arranges different cultural programs to improve communication, creativity, patriotism and different skills of the students. visit https://www.cseculturalclub.ga/",
+		"id": 1
+	  }
+	],
+	"How can I find BSc Curriculum?": [
+	  {
+		"conversation": "Here you can find the BSc Curriculum. Visit https://cse.uap-bd.edu/academic/curriculum_bsc_new/",
+		"id": 1
+	  }
+	],
+	"UAP Address": [
+	  {
+		"conversation": "\"74/A , Green Road , Dhaka - 1205, Bangladesh\nTelephone: +8802-48114140 PABX: +8802-58157091-4,\n+8802-58157096 (Ext - 210,211,212,215) FAX:+8802-58157097\nCell: +8801731681081, +8801768544208. +8801714088321\n+8801789050383\nEmail: admission@uap-bd.edu\"",
+		"id": 1
+	  }
+	],
+	"How do I pay for UAP fees?": [
+	  {
+		"conversation": "You can find all details at https://www.uap-bd.edu/notice/pay_option.pdf",
+		"id": 1
+	  }
+	],
+	"Tuition fees": [
+	  {
+		"conversation": "Tuition fees for Undergraduate | Graduate are available here: https://cse.uap-bd.edu/tuition_fee/",
+		"id": 1
+	  }
+	],
+	"Waiver for new students": [
+	  {
+		"conversation": "Here you can find the details about admission waiver. Visit https://cse.uap-bd.edu/waiver/",
+		"id": 1
+	  }
+	],
+	"Where may I find the result of admission?": [
+	  {
+		"conversation": "You can find the result at https://cse.uap-bd.edu/result/",
+		"id": 1
+	  }
+	],
+   "can u help me": [
+	  {
+		"conversation": "I'm glad to help. What can I do for you?",
+		"id": 1
+	  }
+	],
+	"please help me": [
+	  {
+		"conversation": "Sure. I'd be happy to. What's up?",
+		"id": 1
+	  }
+	],
+	"please stop this now": [
+	  {
+		"conversation": "No problem.",
+		"id": 1
+	  }
+	],
+  "I need help": [
+		  {
+			  "conversation": "I'm glad to help. What can I do for you?",
+			  "id": 1
+		  }
+	  ],
+  
+  
+  
+	  "Thnak you for your help": [
+		  {
+			  "conversation": "It's my pleasure to help you!",
+			  "id": 1
+		  }
+	  ],
+  
+	  "You don't know anything": [
+		  {
+			  "conversation": "Please let me know if I can help in some way",
+			  "id": 1
+		  }
+	  ],
+  
+	  
+	  "Can i get 100% waiver": [
+		  {
+			  "conversation": "Here you can find the details about poor fund .Visit https://cse.uap-bd.edu/waiver/",
+			  "id": 1
+		  }
+	  ],
+  
+	  
+	  "What about Cyber Security Club?": [
+		  {
+			  "conversation": "UAP Cyber Security Club aims to develop studentsâ€™ skills in cyber security. UAP Cyber Security club conduct training programs for students to prepare them to develop different attractive Cyber Security projects. visit https://cse.uap-bd.edu/clubs/club/Cyber%20Security%20Club",
+			  "id": 1
+		  }
+	  ],
+  
+	  "What about Career Development Club?": [
+		  {
+			  "conversation": "Every semester, this club organizes different seminars and workshops to help the students prepare themselves for the future professional life which they are going to choose. visit: https://cse.uap-bd.edu/clubs/club/Career%20Development%20Club",
+			  "id": 1
+		  }
+	  ]
+  
+  }
+  
