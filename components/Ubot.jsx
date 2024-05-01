@@ -7,17 +7,7 @@ import SpeechRecognition, {
   useSpeechRecognition,
 } from "react-speech-recognition";
 import styled from "styled-components";
-import useSound from "use-sound";
-import botLogo from "../assets/images/botLogo.png";
-import { IsBot, IsUser } from "./";
 
-const SendSoundUrl = "/sounds/boop.mp3";
-const MicSoundUrl = "/sounds/tap.mp3";
-
-export default function Home() {
-  const messagesEndRef = useRef(null);
-
-  const [botOpen, setBotOpen] = useState(false);
   const [inputOpen, setInputOpen] = useState(false);
   const [showIntro, setShowIntro] = useState(true);
 
