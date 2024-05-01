@@ -55,4 +55,35 @@
       "id": 1
     }
   ],
+	 "admission online": [
+    {
+      "conversation": "Applicants can apply only online for admission (https://admission.uap-bd.edu/Admission/Home.aspx).",
+      "id": 1
+    }
+  ],
+  "online admission": [
+    {
+      "conversation": "Applicants can apply only online for admission (https://admission.uap-bd.edu/Admission/Home.aspx).",
+      "id": 1
+    }
+  ],
+{
+  "What is the admission criteria For Transfer Students?": [
+    {
+      "conversation": "Credit transfer students from other universities are also considered for admission, however their application is considered case by case, taking into account their previous results and track record and also must pass the admission test if the department requires. The minimum GPA for a course is “B” to be considered as transferable. A transfer student must complete 50% of the required total credit hour in the university to be eligible for a degree from UAP.\n\nFor a student who has a study gap of more than two years prior to her/his application for admission is advised to contact directly to the admission office.",
+      "id": 1
+    }
+  ],
+  "What are the admission requirements for transfer students?": [
+    {
+      "conversation": "Credit transfer students from other universities are also considered for admission, however their application is considered case by case, taking into account their previous results and track record and also must pass the admission test if the department requires. The minimum GPA for a course is “B” to be considered as transferable. A transfer student must complete 50% of the required total credit hour in the university to be eligible for a degree from UAP.\n\nFor a student who has a study gap of more than two years prior to her/his application for admission is advised to contact directly to the admission office.",
+      "id": 1
+    }
+  ],
+  "What are the entrance requirements for transfer students?": [
+    {
+      "conversation": "Credit transfer students from other universities are also considered for admission, however their application is considered case by case, taking into account their previous results and track record and also must pass the admission test if the department requires. The minimum GPA for a course is “B” to be considered as transferable. A transfer student must complete 50% of the required total credit hour in the university to be eligible for a degree from UAP.\n\nFor a student who has a study gap of more than two years prior to her/his application for admission is advised to contact directly to the admission office.",
+      "id": 1
+    }
+  ],
 }
